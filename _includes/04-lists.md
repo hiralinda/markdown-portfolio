@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+# List of favorite things
+- Broadway shows
+- Concerts
+- Sushi
+- Music
+- Friends
